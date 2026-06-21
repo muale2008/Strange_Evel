@@ -30,14 +30,14 @@ module.exports = {
 │Sᴀɴɴᴜ Mᴅ Mɪɴɪ Bᴏᴛ🥷
 │
 │ 🤖 *BOT DETAILS:*
-│ ├─ Name: Sannu Md
-│ ├─ Developer: sannu x
+│ ├─ Name: Strange Md
+│ ├─ Developer: strange x
 │ ├─ Version: 2.0.0
 │ ├─ Library: Baileys MD
 │ ├─ Platform: Node.js ${process.version}
 │ └─ Uptime: ${hours}h ${minutes}m ${seconds}s
 │
-│Sᴀɴɴᴜ Mᴅ Mɪɴɪ Bᴏᴛ🥷
+│STRANGE Mᴅ Mɪɴɪ Bᴏᴛ🥷
 │
 │ 💻 *SYSTEM INFO:*
 │ ├─ OS: ${os.type()} ${os.release()}
@@ -46,7 +46,7 @@ module.exports = {
 │ ├─ Memory: ${freeMem}GB / ${totalMem}GB
 │ └─ CPU Cores: ${os.cpus().length}
 │
-│Sᴀɴɴᴜ Mᴅ Mɪɴɪ Bᴏᴛ🥷
+│STRANGE Mᴅ Mɪɴɪ Bᴏᴛ🥷
 │
 │ 📊 *BOT STATS:*
 │ ├─ Commands: 50+
@@ -55,7 +55,7 @@ module.exports = {
 │ ├─ Speed: Instant
 │ └─ Status: ✅ Online
 │
-│Sᴀɴɴᴜ Mᴅ Mɪɴɪ Bᴏᴛ🥷
+│STRANGE Mᴅ Mɪɴɪ Bᴏᴛ🥷
 │
 │ 🔧 *TECHNOLOGIES:*
 │ ├─ WhatsApp Web Protocol
@@ -64,14 +64,14 @@ module.exports = {
 │ ├─ Redis Cache
 │ └─ Express Server
 │
-│Sᴀɴɴᴜ Mᴅ Mɪɴɪ Bᴏᴛ🥷
+│STRANGE Mᴅ Mɪɴɪ Bᴏᴛ🥷
 │
 │ 📞 *CONTACT DEVELOPER:*
 │ ├─ WhatsApp: +94772563976
 │ ├─ GitHub: SANNU-MD 
 │ └─ Email: inconnuboy39@gmail.com
 │
-╰─© 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈🥷𝚂𝙰𝙽𝙽𝚄 𝙼𝙳 𝙼𝙸𝙽𝙸 𝙱𝙾𝚃─
+╰─© 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈🥷STRANGE 𝙼𝙳 𝙼𝙸𝙽𝙸 𝙱𝙾𝚃─
       `.trim();
 
       const devPp = "https://files.catbox.moe/nmcqfa.jpg";
