@@ -32,12 +32,12 @@ module.exports = {
       // Alive message
       const caption = `
 ╭───𝚂𝚈𝚂𝚃𝙴𝙼 𝚂𝚃𝙰𝚃𝚄𝚂🥷────
-│ Bot : *Sᴀɴɴᴜ Mᴅ Mɪɴɪ Bᴏᴛ*
+│ Bot : *STRANGE Mᴅ Mɪɴɪ Bᴏᴛ*
 │ Uptime : *${days}d ${hours}h ${minutes}m ${seconds}s*
 │ User : ${senderTag}
 │ Date : *${date}*
 │
-│© 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈🥷𝚂𝙰𝙽𝙽𝚄 𝙼𝙳 𝙼𝙸𝙽𝙸 𝙱𝙾𝚃
+│© 𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈🥷𝚂TRANGE 𝙼𝙳 𝙼𝙸𝙽𝙸 𝙱𝙾𝚃
 ╰────────────────
 
 ⟢ System: *${os.type()} ${os.release()}*
